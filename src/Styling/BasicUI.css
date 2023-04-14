@@ -1,0 +1,10 @@
+.nav-bar {
+    background-color: #cde0c9 !important;
+    height: 9vh;
+}
+
+.footer {
+    text-align: center;
+    width: 100%;
+    position: relative
+}

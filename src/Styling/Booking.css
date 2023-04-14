@@ -1,0 +1,74 @@
+.card-outline {
+  position: relative;
+  background-color: #e0ecde !important;
+  min-height: 91vh;
+  padding-bottom: 20px;
+}
+
+.reserved {
+  background: #a7d676;
+  color: #fff;
+  display: inline-block;
+}
+
+.booked {
+  background: #fbc78d;
+  color: #fff;
+  display: inline-block;
+}
+
+.available {
+  color: #006400;
+  background: #fbeee6;
+  display: inline-block;
+}
+
+.seat {
+  border-radius: 15%;
+  border-color: #2c6975;
+  border: 5px;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+}
+
+.seatHeader {
+  margin-bottom: 2%;
+}
+
+.seat-sample-booked {
+  height: 20px;
+  width: 20px;
+  background-color: #080807;
+}
+
+.seat-sample-available {
+  height: 20px;
+  width: 20px;
+  background-color: #fbeee6;
+}
+
+.seat-sample-selected {
+  height: 20px;
+  width: 20px;
+  background-color: #32d83b;
+}
+
+.screen-outer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.screen {
+  margin-top: 2%;
+  margin-bottom: 3%;
+  background-color: rgb(230, 132, 5);
+  text-align: center;
+  width: 270px;
+}
+
+li {
+  list-style: none;
+}

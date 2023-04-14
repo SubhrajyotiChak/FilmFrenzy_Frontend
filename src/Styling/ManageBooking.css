@@ -1,0 +1,10 @@
+.card-outline {
+  position: relative;
+  background-color: #e0ecde !important;
+  min-height: 91vh;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}

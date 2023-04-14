@@ -1,0 +1,16 @@
+html * {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+body {
+  position: relative;
+  background-color: #2a55a5;
+}
+
+.textColor {
+  color: rgb(64, 65, 70) !important;
+}
+
+.bodyColor {
+  color: #0c1610 !important;
+}
